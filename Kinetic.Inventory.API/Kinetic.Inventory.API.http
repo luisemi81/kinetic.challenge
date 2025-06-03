@@ -1,0 +1,6 @@
+@Kinetic.Inventory.API_HostAddress = http://localhost:5235
+
+GET {{Kinetic.Inventory.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
